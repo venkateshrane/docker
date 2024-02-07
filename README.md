@@ -5,6 +5,7 @@ Docker Basic Commands
 List All the Docker Images 
 =========================
 192:Docker Garima$ docker image ls
+
 REPOSITORY                                TAG                                                                          IMAGE ID       CREATED         SIZE
 ubuntu                                    latest                                                                       fd1d8f58e8ae   12 days ago     77.9MB
 docker/desktop-kubernetes                 kubernetes-v1.29.1-cni-v1.4.0-critools-v1.29.0-cri-dockerd-v0.3.8-1-debian   ace10e261811   2 weeks ago     438MB
